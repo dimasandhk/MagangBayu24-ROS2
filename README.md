@@ -2,8 +2,8 @@
 # Magang Bayucaraka 2024 - ROS2
 
 **Identitas Peserta**\
-Nama    : \
-NRP     : 
+Nama    : Dimas Andhika Diputra\
+NRP     : 5027231074
 
 Pengumpulan tugas dilakukan dengan cara seperti berikut:
 
